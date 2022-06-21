@@ -93,7 +93,7 @@ def compare_mass_dampings():
 	added_mass = [(3*r)/(2*np.pi*rho_sw*1) for r in added_mass] 
 	
 
-
+# Analytical data obtained from Table I A.Hulme paper: The wave forces acting on a floating hemisphere undergoing forced periodic oscillations
 	
 	analytical_mass = [0.8764,0.8627,0.7938,0.7157,0.6452,0.5861,0.5381,0.4999,0.4698,
 0.4464,0.4284,0.4047,0.3924,0.3871,0.3864,0.3884,0.3988,0.4111,0.4322,0.4471,0.4574,0.4647,0.47,0.474,0.4771]
